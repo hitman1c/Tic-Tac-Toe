@@ -302,7 +302,7 @@ function App() {
               </p>
               <p style={{ margin: "12px 0 0 0", fontSize: "0.85rem", color: "var(--neon-purple)", textShadow: "0 0 5px var(--neon-purple)" }}>
                 <strong>Developer:</strong> Seabata Sechaba<br/>
-                <strong>Contact:</strong> 56171110
+                <strong>Contact:</strong> +266 56171110
               </p>
             </div>
           </div>
